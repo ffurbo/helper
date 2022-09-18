@@ -1,0 +1,9 @@
+name: helper  
+version: 0.0.1
+author: FFurbo
+main: ffurbo.mc.example.Plugin
+api-version: 1.14
+
+commands:
+  qwe:
+    description: test plugin command
